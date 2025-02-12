@@ -1,4 +1,4 @@
-# Smart City Real-Time Data Handling 🌆
+# Smart City Real-Time Data Analytics 🌆
 
 A scalable, real-time data processing pipeline for smart city infrastructure monitoring and analysis.
 
